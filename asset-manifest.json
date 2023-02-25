@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/calculatorApp/static/js/app.73fa584f.chunk.js",
+    "app.js.map": "/calculatorApp/static/js/app.73fa584f.chunk.js.map",
+    "runtime~app.js": "/calculatorApp/static/js/runtime~app.4eb235ae.js",
+    "runtime~app.js.map": "/calculatorApp/static/js/runtime~app.4eb235ae.js.map",
+    "static/js/2.65dc0f36.chunk.js": "/calculatorApp/static/js/2.65dc0f36.chunk.js",
+    "static/js/2.65dc0f36.chunk.js.map": "/calculatorApp/static/js/2.65dc0f36.chunk.js.map",
+    "fonts/AntDesign.ttf": "/calculatorApp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/calculatorApp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/calculatorApp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/calculatorApp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/calculatorApp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/calculatorApp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/calculatorApp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/calculatorApp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/calculatorApp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/calculatorApp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/calculatorApp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/calculatorApp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/calculatorApp/favicon-16.png",
+    "favicon-32.png": "/calculatorApp/favicon-32.png",
+    "favicon.ico": "/calculatorApp/favicon.ico",
+    "index.html": "/calculatorApp/index.html",
+    "manifest.json": "/calculatorApp/manifest.json",
+    "serve.json": "/calculatorApp/serve.json",
+    "static/js/2.65dc0f36.chunk.js.LICENSE.txt": "/calculatorApp/static/js/2.65dc0f36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4eb235ae.js",
+    "static/js/2.65dc0f36.chunk.js",
+    "static/js/app.73fa584f.chunk.js"
+  ]
+}
